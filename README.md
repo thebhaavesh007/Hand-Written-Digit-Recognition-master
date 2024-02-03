@@ -18,6 +18,10 @@ This project involves building a machine learning model to classify handwritten 
   - `predict.py`: Script for making predictions on new images.
 - **`models/`**: Saved model weights and architecture.
 
+## Live Demo
+
+Check out the live demo of the handwritten digit classification model on our [website](https://your-demo-url.com). You can interact with the model, upload your own handwritten digits, and see the predictions in real-time.
+
 ## Setup
 
 1. Install dependencies:
@@ -48,4 +52,4 @@ The MNIST dataset is used for educational and research purposes. More details ca
 Note: Replace placeholder information with your specific project details and adapt the structure based on your project's organization.
 
 
-## Make sure to replace the placeholder information with your specific project details, and you may include additional sections or details based on your project's requirements.
+Make sure to replace the placeholder information with your specific project details, and you may include additional sections or details based on your project's requirements.
