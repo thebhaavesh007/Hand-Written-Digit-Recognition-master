@@ -20,7 +20,7 @@ This project involves building a machine learning model to classify handwritten 
 
 ## Live Demo
 
-Check out the live demo of the handwritten digit classification model on our [website](https://your-demo-url.com). You can interact with the model, upload your own handwritten digits, and see the predictions in real-time.
+Check out the live demo of the handwritten digit classification model on our [website](https://thebhaavesh007.github.io/Hand-Written-Digit-Recognition-master/).You can interact with the model, upload your own handwritten digits, and see the predictions in real-time.
 
 ## Setup
 
