@@ -1,4 +1,4 @@
-# Handwritten Digit Classification
+# Handwritten Digit Recognition
 
 This project involves building a machine learning model to classify handwritten digits (0-9). The model is trained on the MNIST dataset, a widely-used benchmark dataset for image classification tasks.
 
